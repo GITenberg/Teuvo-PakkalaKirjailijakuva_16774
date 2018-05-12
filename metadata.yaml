@@ -1,0 +1,27 @@
+_repo: Teuvo-PakkalaKirjailijakuva_16774
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Siljo, Juhani
+    birthdate: 1888
+    deathdate: 1918
+    gutenberg_agent_id: '6580'
+    url: http://www.gutenberg.org/2009/agents/6580
+    wikipedia: http://fi.wikipedia.org/wiki/Juhani_Siljo
+description: ''
+gutenberg_issued: '2005-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16774'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pakkala, Teuvo, 1862-1925'
+- !lcc 'PH'
+title: 'Teuvo Pakkala: Kirjailijakuva'
+url: http://www.gutenberg.org/ebooks/16774
